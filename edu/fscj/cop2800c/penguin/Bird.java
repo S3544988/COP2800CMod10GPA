@@ -1,6 +1,6 @@
 // Bird.java
-// 
-// 
+// Julio Colon
+// 03/23/2026
 // Represents a bird base class
 
 package edu.fscj.cop2800c.penguin;
