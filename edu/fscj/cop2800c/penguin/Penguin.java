@@ -1,6 +1,6 @@
 // Penguin.java
-// 
-// 
+// Julio Colon
+// 03/23/2026
 // Represents a Palmer Penguin
 
 package edu.fscj.cop2800c.penguin;
